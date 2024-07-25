@@ -2,6 +2,10 @@
 
 https://sourceforge.net/projects/epgcollector/
 
+This is forked at ejohnson-dotnet/EPG-Collector with the comment "Update to v4.3 Fixpack 31" but the original source (nzsjb / Steve Bickell) apparently is at Fixpack 32.  So here it is.  32 with some improvements.
+
+------
+
 EPG Collector is a Windows package for collecting the EPG data from DVB or ATSC streams in EIT, MHEG5, OpenTV, MediaHighway, FreeSat and PSIP formats and creating an XMLTV file. It can also import the data to 7MC or DVBViewer.
 Features
 
